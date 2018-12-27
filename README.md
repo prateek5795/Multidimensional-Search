@@ -131,8 +131,7 @@ by the algorithm as it processes the input.
    contains only the references of the Items which are mapped by the 
    descriptions.
 
-# RESULTS: 
-
+# RESULTS
  -------------------------------------------------------------------------  
 | File         | Output          |   Time (mSec)     | Memory (used/avail)|  
 |:------------:|:---------------:|:-----------------:|:------------------:|  
